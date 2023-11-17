@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Rodriguez",
+  "age": 56,
+  "address": {
+    "street": "Fogbal Mill",
+    "city": "Vulitegur",
+    "state": "CA",
+    "zip": "30268"
+  },
+  "contact": {
+    "phone": "(506) 617-2455",
+    "servicePhone": "800173872"
+  },
+  "birthday": "2000-03-03T09:20:06.509Z",
+  "ip": "3.201.123.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Zunvuk dop nulagke wimukli tiksoj ewada bu ces nuf aw li ta ba zuphalbem filda waozaram sairko. Teva buzihet inudek esminta wa hudupca ov pewki di bukece ofiasobi sawjo izdetaf tub uvalaj. Hawkuwic gege kil mu ewnepe ifa aj iconola hed carcu bowzew kopver zocafu zan. Ikaec tuvumiput rire ictithuh pe ofein fisve toffotor bama woh kud cudope pe riri.",
+    "bio": "Guro iveef ojoarla ez monulisa ceksolme bugneto lawe de micpak pohig hu pafosfek dodeda diviraca. Uvizo uzijibab uwefawnal zuj eze agrevlen walag toga picemeni zu to tolmeb topdec fefubago. Ruj za be ismurmuh tijo il vusvohoga johbiib vihgoro wumufeg sipu gonuclor uwef. Sez nu robmuzic pa iseni vidivmi eno gofektuj wakotis zuz zawutaf kokhi gehvo. We mu po zobumuki oghagses kac jufepzeg fiim tov fulob av asa aneligha vobjep imemih kugeg hevku. Ni te cuini wijle udopage cum fijeli vof folcuuf vahizo zobod sig kovpin gieh feiralam. Vugudo rir miv awnome coma dot us buda dairrog ziszidej teighu sook zo."
+  },
+  "apiKey": "228ce104664dc3438821b0e8a3ae7a5924906f5637787c6023940dd64b7065cd",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
