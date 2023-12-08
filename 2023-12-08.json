@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Bowman",
+  "age": 48,
+  "address": {
+    "street": "Vawo Loop",
+    "city": "Taletlu",
+    "state": "NY",
+    "zip": "46259"
+  },
+  "contact": {
+    "phone": "(707) 468-1423",
+    "servicePhone": "800774894"
+  },
+  "birthday": "1962-03-16T23:42:22.226Z",
+  "ip": "54.193.223.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Afafo amaega huwaj eluwof jut enka italo sebvera licnes siag rapakso fojju jevmogco. Sukaduru sigrofo jewba koiz ku wav selmu ewjefra asuta saekbu bimuzvog dunofi. Naremuc ubofu vutuf lac cutdute udpu vehen wif pofbuz bes mi pappeh uwuiriwi. Fekhe vo fifja rure gatu oju vinah gomrezo odmar oge joiz re zegwagvi hotsa heosi aneolbe nef utubapdo. Esihi fun wi zedopid wi sasjekub no hi geboga fofojvaz co tujru vewuwuta tuftek suirjis lowemi.",
+    "bio": "Evenu ebjoh mu ejoab dud nopfahra gorwu fegugo owdo la fa iceapgoj fugak. Ril irufa ge emivil nawgi bobzi edtoh gabogfij imget mot mohiwdig ujomihzi winzaog ral cajef buzig. Ko zihhevok vi ewomamaz jo howovid ditne rodtan ji sahvo hihzo kof geral kafnutte ubfule. Johdolbo esici uwa fura ijihafdan wotezjik ukohe tikebgog wi cow omifa sihauwu zap recdosdig iflit jeizasag. Su zadcopfif te ragla pel hof esjusu da etopav ulalifjul kepi pumbi. Ese milo hefo lu wozu bojzos lihino okhataz iwvuz ekhimegi su urenwu."
+  },
+  "apiKey": "36faa20bcf74ae0ab253d7fe06080bf892406f8fa1eb8306dee1f8a2375fc157",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
