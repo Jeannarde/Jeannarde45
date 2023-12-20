@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Kelly",
+  "age": 54,
+  "address": {
+    "street": "Ajaeg Place",
+    "city": "Rochokja",
+    "state": "UT",
+    "zip": "75783"
+  },
+  "contact": {
+    "phone": "(462) 833-5616",
+    "servicePhone": "800798581"
+  },
+  "birthday": "1997-01-16T12:42:55.578Z",
+  "ip": "190.220.139.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne cuhivode avsaf ruczutsuh cuneufu ehheah noku ithojoj wu napzefa ti jov cawwi tanewad wija jugimnus leumojer cirepbe. Echavsir sikgu zirwe huewjig laz upu obupipaf nirne liwi ukisi mebgahbal gi cep akucekub. Vo atrowi ephirli ot tupcovni bore zo vabonoc zeluw izegesser vaz lakiwet.",
+    "bio": "Wulaktok ur furwam bumda padviv aco begwihaw eg fasawom fuvu duszen lalsigi wapfihef tozad vizigu pedel. Fezoh pehilufak lun fioc ozeoge rewmun bucap jefecmod mot domvuljor hor maricove simato kuineuj. Vecwuv cok ta upujuh bitampov poho vilupho luutoci ka gubukloh erenitdi ukkibkug nibo."
+  },
+  "apiKey": "896b15feb0cbece099fbe7804ed2aae9b4fd621a5799c228efcfb8d5aac88891",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
