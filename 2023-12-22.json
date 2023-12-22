@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Ball",
+  "age": 19,
+  "address": {
+    "street": "Guor Drive",
+    "city": "Artewe",
+    "state": "AZ",
+    "zip": "45295"
+  },
+  "contact": {
+    "phone": "(324) 624-2883",
+    "servicePhone": "800397369"
+  },
+  "birthday": "1993-06-30T08:52:51.617Z",
+  "ip": "87.207.14.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Mibwewe wez nirzizsi mij gahew karawa fa rorul uf cado cu jevub. Pud tu re ed daik jeclo le sel eliw nuur bu waga safowo. Fijem ca dos pajkaszum wavpafvo cafjaita foce fokzu livma lapah vuvja oroop fa. Uchel ze bafbence zufihpov nifo gagma jabhu wufo wizemojed misveturo le obep bigud mahur kowip vot efge saku. Tihhav ema tassefa tergo febsum vufusuj gaiwe dokricu licriw vaco pun erroze kidderni pe tup anacaaz. Pelcufwi reigo bakvabjip umrapfan foguoti pudop vowwan nuwnofvi deto elhafur lu ledeta giwij ip buvjajo ir aruuzusig duz. Venmim sodojcip pu bav gattaceb nuzlu bubazine civajo bigij juzcelola ijgu bogufgog dubowoc noim ujuel kozcicub.",
+    "bio": "Sus eh omzicgu ki zeliki hoaz mozeib jik diju nojefbo buzge fud kojuf uw ojahi ige. Bealaodo cubjoija evmade kazzivi tehit aglopo lusjipheh afuecuzif isi fojoju boico sofi. Cow joub ugtukuvi muvaw higaki dojikuwo jo kav tehancu owu feil sarem. Watmo sek neziof hemodji conkel cof pof pa dobval bej uvittow vumja web jacavti bu tad. Tecobeg sir ikove nu mabpot cifjoj disuok harohu lome okalerij jeibawe fe ifotoc ci et hivege. Der lap mobma fi sizeni omi juhuc fi erovorcod wuaro dorurhud me pe."
+  },
+  "apiKey": "a9b1dada5e2236bba6f2a9ec51778c63233d0b2b37de99a08f4251366e0740f8",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
