@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Osborne",
+  "age": 54,
+  "address": {
+    "street": "Iceta Heights",
+    "city": "Golitje",
+    "state": "MA",
+    "zip": "78224"
+  },
+  "contact": {
+    "phone": "(464) 465-8050",
+    "servicePhone": "800371496"
+  },
+  "birthday": "1976-12-23T21:53:51.388Z",
+  "ip": "176.28.29.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Artep fat ceekoav awturvov zukbuk go rawdis ru vaimakad jecon zolimu ruj kofcuzoha zolwojwi. Ra de pabi bidvat jikasu tup elafila up icini caguez va wud runi. Ov pivi zomohiwe sodoci ublodu hekhos umnoftes cobkos wodu nurjafe orkem era.",
+    "bio": "Vub jahno pofaka dajtadwe bugagow bope sehoj nasuta mirwuk ep tumec tuw. Juchewec jeesa genormo umcu zekuh takiw ker ho altaje jegguca ozibif fegcec irpi ina. Vut vekce ihara vovafi favajo doof mojo piwbakzu abufobvo pokob luv wersu. Itesuicu ajzo tomhed lijcu vufihobi ze we joibiwi ron odoeviko umikul rebgeb worligefo ped."
+  },
+  "apiKey": "3c1667e12ca749c7be03dcf213571132bc51d69b415025937c766c4eb8e1f0bb",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
