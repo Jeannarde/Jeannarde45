@@ -1,0 +1,26 @@
+{
+  "name": "Julia Zimmerman",
+  "age": 40,
+  "address": {
+    "street": "Poov Lane",
+    "city": "Rimwiwuw",
+    "state": "NM",
+    "zip": "09919"
+  },
+  "contact": {
+    "phone": "(864) 978-6019",
+    "servicePhone": "800682997"
+  },
+  "birthday": "1987-09-10T04:53:08.510Z",
+  "ip": "222.106.10.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Cabucre jidaf vihuli zak menhegit pufo mah fedowof pir cedu gazi fuovhe gijo. Buf azafodez git sakeg otwonen nognotjet badfere giwa ligi cahofaw cam avbedu ha sinzim kuf him ownu. Abuovca rakod tounaof dojdiwtej ewwepi mej ras ra seweozu dimupo jiecu zinrim dakibaco aveiccus.",
+    "bio": "Juhze dugjoh sebizev fiffa naczu mowkaar lu aluazolo wiog cedfuvgo hav de pemicce. Gewuboco nepdab junu utuha dezoha pektub nug evvalij henaz pecespi vuvwaiw ojvos ifokaw vo rukmegig ureab tavoz. Er segeb uj da lacvutem ahmifap sur keag bezule kadijvon rav ew dudez ithem noj kuso set."
+  },
+  "apiKey": "ebeae170beed898d144324acb9705dc513e4221b470745177c23f08f9be1b309",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
