@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Soto",
+  "age": 42,
+  "address": {
+    "street": "Emiofa Way",
+    "city": "Leucoani",
+    "state": "FL",
+    "zip": "27760"
+  },
+  "contact": {
+    "phone": "(217) 541-3913",
+    "servicePhone": "800182248"
+  },
+  "birthday": "2006-01-15T09:00:11.292Z",
+  "ip": "147.125.195.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Oswoli tig bopdegfib dowu ci ujdaure evji daef weniijo ojohoole od bu okepoplip ebatak fof wemuzfup. Sa leves memiscub efjifrun notofa lodmonboj dampepa tiuszul modliam paak kina ifilusug. Ezuazewe ju gaboraga waju ofe efvonid egaahta norkewab ja musopon mobhil getamlar wivsihad sojom sutoaz. Weipu vowve idzop viemla ikwim ufkupuj gu fafada ufe jojuggi lolaw nosuc uh mujurirow somuc.",
+    "bio": "Ejwi ropzof inwopu viwca vasez zowep napguva wadal cidnac cirfa wius detov dub himovmat jes muhela. Ranovab ga wasfi hetcuwwi cucot vac he najdepin puzumo paruki luli vijiktu zukhon. Jarnustu vofki mi wovbekpis un weh vej dafzew fassup meeguru keoku tolma mezap viputoci."
+  },
+  "apiKey": "0d2e3e7540c31d4e972765f5090a7b7461f6f8c45455947e0685b2f617c02341",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
