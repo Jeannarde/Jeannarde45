@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Thompson",
+  "age": 37,
+  "address": {
+    "street": "Lugva Court",
+    "city": "Kunbunraz",
+    "state": "MO",
+    "zip": "93373"
+  },
+  "contact": {
+    "phone": "(439) 627-1607",
+    "servicePhone": "800737854"
+  },
+  "birthday": "1995-02-22T19:37:49.612Z",
+  "ip": "192.179.178.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Iszeg iti kej wafna dovzepelu ve haukoofi wigur cikvog eccuhkom feja hikizbuw wim. Hagihmo cet ocuheco umde tasu hu kamake ce nowev fojlolji fo onoraocu lobas hik milzu ahevajaf vu. Giba po sov ona ci bas hugov onvail loadol taujeoti pi bis. Pohvim adetiscep owo wuzpeku ve viswap ug pebet ri di murzeufu kijowos upce fenuk lepdivsut nac kavuewe.",
+    "bio": "Jovbeame he ni ago urmef neh ma hidgu taacjit pagwed biwan mihorap fofidde. Igavukoj colbe ped ip nastok hebtefcu zehvuza raj far kaki maokjuv ba buhapmo rubo her sajedih. Jadew rep jutho uhwafsa zij ned pajwaw nenzac momci faf jajowa seoc nodcemec. Pel ufmo viejozu bi baceb newka ituleci ha dev huhgez uranih vecmesce uroti wowho agawite vac let."
+  },
+  "apiKey": "9e68c2df2128926d121dba53b4330e6e4fac5c8ebf53649636fdfdbc88537516",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
