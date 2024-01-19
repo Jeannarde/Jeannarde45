@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Morales",
+  "age": 27,
+  "address": {
+    "street": "Imkog Way",
+    "city": "Ukuonovuc",
+    "state": "RI",
+    "zip": "54238"
+  },
+  "contact": {
+    "phone": "(201) 982-8074",
+    "servicePhone": "800111983"
+  },
+  "birthday": "2003-07-29T00:50:18.602Z",
+  "ip": "92.86.140.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovsic lahok fobizne notcuk ti ganvaj giupele evous is rov me panbartem tef nisi ke ibloc pieja. Zogete wumot fo ri vewnaw ah camilim tacabuw fu eja ab cuba. Feuko ladtaj vihuce imrokru casirnil ed so aloju onopij lostu bijesu esaejco fostazkeb puvrebet nejhes. Ne se fuvmo tokkelam tif pamwomi gigackom wojbi kavi rane sig dew cojron. Rame ur om zifho nevve odba envoro va ja zawzuruh wa gef. Wuh poti oneoj jo ru li ali sulwocel sanbeg tofwugna wad gigigo ifhuh.",
+    "bio": "Wofhaemo joj pucu hij tewruv avi guh kuwescep cachapnab efininlaf nezac fivelju. Evieva vumin etpe duwitsa kiathaz faisuzu ro vezze lefvet fitcedo locica focowi. Eja om ugi bok kovwojog wufwekwel vumhaf ulo ido rocba tinmaf janbit go tav uzmiso fa popuf tekawas."
+  },
+  "apiKey": "47e1c2cf9a06488fae712d20bcdb5f31ea8b98dddd64a80d05c9f18670a314e5",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
