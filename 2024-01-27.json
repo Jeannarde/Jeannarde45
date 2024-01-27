@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Bell",
+  "age": 35,
+  "address": {
+    "street": "Ciefa Park",
+    "city": "Inofbib",
+    "state": "ME",
+    "zip": "99353"
+  },
+  "contact": {
+    "phone": "(736) 242-8046",
+    "servicePhone": "800519741"
+  },
+  "birthday": "2002-06-18T18:34:04.070Z",
+  "ip": "250.35.20.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi vin pav huhzajeg emugu so lap cume obiiroomo hen sejfirow nevbi igsu gito hofohu ecdogak ewulewsuv. Ri nacogo nihmu semina pewufig fiojuker nankasfur uhagahet zu mip mutvu rajo gufjeeg taema izsiake zelkuir sate va. Zu sonzanrec ci ew eruhele ef mopec iw efbobavi ejukaavu lajgag cijizifes pikcuhnud dewafoj.",
+    "bio": "Gulowzed gijej at icoduv can uwzig tabnahiwe edi zese vafpu ino torrep. Izasec emwoed jegag caflatif rila civro rew ihe vu do di ribiczo odiva gu. Lemo nobnac muvi bo kug uhzig sis dilkirim edimasun vuutzol cuecbah jopoglu lulemavu imru bife."
+  },
+  "apiKey": "7a57cb3bde6527359053d30e8d7355a31bac6b20621c0383d651050869d791a3",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
