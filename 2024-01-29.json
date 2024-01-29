@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Reyes",
+  "age": 43,
+  "address": {
+    "street": "Pait Avenue",
+    "city": "Tenaduw",
+    "state": "IN",
+    "zip": "88591"
+  },
+  "contact": {
+    "phone": "(587) 482-5828",
+    "servicePhone": "800262451"
+  },
+  "birthday": "1988-12-14T15:44:50.349Z",
+  "ip": "181.32.235.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Kudrigici lezuda ba ime amozim owgid jeke tavwoc ce ajeobeke piejuom roej lojnu udbuh ko. Fanamo tijoz rezat zit oma mi bat efpupso wo vi lutoc ane bib helara zu. Ura opbobo nihgumdam labow po wal harima lezme ojvepise lifafu ka gockisog ca ifu ad wirdo. Ulo pi da getnidum erdog mup tavisvu nuhpesgur ka novesim weh ugjike pib.",
+    "bio": "Zah ta tucih peddek woc gudiho wapgu sivzu bikmut vic rohjo tevigza azesodaj re ajdi miw. Ja zuw fadral sen igedaob nosrep ucogiron edare wog dudput ukrarzar walu. Ufekisa jovasjug ta rudtal me cetket ove wige elo nobafot siripzug ogodo."
+  },
+  "apiKey": "5e1397c5ccb66641d4f52d98225eb7a5fabedf4267bc9829e1e77c2a3f71aebc",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
