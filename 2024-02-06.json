@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Norris",
+  "age": 25,
+  "address": {
+    "street": "Colpe Heights",
+    "city": "Wilvidi",
+    "state": "IN",
+    "zip": "70492"
+  },
+  "contact": {
+    "phone": "(812) 997-6705",
+    "servicePhone": "800262963"
+  },
+  "birthday": "1992-04-28T01:42:54.041Z",
+  "ip": "19.174.161.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Bukezu tefejat gaj tumulib nekhu kuroav lunko pibawni gupmuse odo lekimli veh pisuneku madi man foga vugbiv. Sedid ra got kis efo rud rowzi wohde atladef jobbu puhet jahijwic waticgow jareg wumtigjij rutezuji ku. Sevula hu etubu iggut ufu gohaba kuhvur di wab tinsursut ji hic wavhuj meh cumeze. Akisuloj pit tuevukub sibsoz tocupupi ifi ohi za wilpu viko balbek kavje nevkaw panehne kikfizij ukebadse ifvizti pof. Ikemi cuvbu jo kozupguc etokiko tuano gujaitu joro selgi rod go it vuaznuw kerengu etdu.",
+    "bio": "Pupor vuigzu wecam efjig kologi nil vokapzog mokpim jutavem ta zedakum gitgu mupne pukahog pabbili vaspaha. Agaupuvi wiunena ilekirnav coehcep lesoro zebinis acvo deh tujsuhpop bahmuzuv ahasab ezebimca enu vibemmi ama upsilo lav hipjutec. Camgeb ova lik nilodces kiklot zunarwi jor epause avidabi leczojraf lefuwmi isoze."
+  },
+  "apiKey": "daa7b5201aff6ffa42f36b951ab3f3651a7c5da033392e5536c7d39454440bbe",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
