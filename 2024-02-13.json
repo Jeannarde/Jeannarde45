@@ -1,0 +1,26 @@
+{
+  "name": "Brett Blake",
+  "age": 60,
+  "address": {
+    "street": "Woser Manor",
+    "city": "Wunijuc",
+    "state": "MT",
+    "zip": "78522"
+  },
+  "contact": {
+    "phone": "(982) 537-1958",
+    "servicePhone": "800726826"
+  },
+  "birthday": "1995-02-05T14:27:19.645Z",
+  "ip": "7.220.200.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Jol uvhujuk nikizuide kopmek asavipi muref nidkieb fenceb he gi kebuih jine awadebku hekapika zo. Ejdamew nujewwu towa afa pu itheh imemin beiwpi erzamos osonew hisiij tolces ol. Azago wejzuje cufi peoje junlet gihicof bomug gi necuzuc gevuzi zatocpog akofu.",
+    "bio": "Bob fuk mil ereso isfecu ut moaci wafwihbe mudfojka reuzi hiwdup muv lago nen. Gut gijjete laddul jirijoc juci ohiwo habim givjuw nek umwa sumbipogo pawal. Banjajvob zajar kor ned gonu vo sarawfa icra kekugalev cuhifenof gakoho woshi lehpan mokul apo go."
+  },
+  "apiKey": "af9f232a86afd8d617f5703a301f62fe5f6a0ec50b44d6817a26e24a82a21b4a",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
