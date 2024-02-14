@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Richardson",
+  "age": 45,
+  "address": {
+    "street": "Ciru Park",
+    "city": "Regacafo",
+    "state": "IN",
+    "zip": "25997"
+  },
+  "contact": {
+    "phone": "(654) 465-1688",
+    "servicePhone": "800259928"
+  },
+  "birthday": "1986-01-10T19:09:22.961Z",
+  "ip": "220.38.120.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Gol cabpirak su seh epegnut douda kevukar lolripduw tiswad mof luk fe tanu siwele uwawu mi. Sazluzo ruuf uh zoluv buruw ehi asow te lon elkazim ahru lihsa. Uvala ipazod akber gimu ic poftiv hak ibe ne culcoewe viruil ew vo bibvik lo akufor. Bufini sog set kocitke cuttu luhen bub zabfoj nitob pu ev kozok kujifat.",
+    "bio": "Hapefved emi ekucu lowjore hiwej si ikuz ohuza fah ta ceribwi fuvafef jitelez. Lotonim opazojpa pes tadnu dopipa ohodos hibgezow miza onugic lehkegok caoho zutmo uhomuw ral. Ijuzusgir eloiku waklolos sedmi fiv zeapagu pilsokren vakegwo ise pafu agigoce ga ureivmem jufus zos jove zemi kud."
+  },
+  "apiKey": "c85de50ea6219122a7ad68fc901afdfaf68bcbdd1acb742ff659d6511d115107",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
