@@ -1,0 +1,26 @@
+{
+  "name": "Katharine Lambert",
+  "age": 25,
+  "address": {
+    "street": "Sabo Ridge",
+    "city": "Wetluewe",
+    "state": "NJ",
+    "zip": "02565"
+  },
+  "contact": {
+    "phone": "(309) 595-4290",
+    "servicePhone": "800831236"
+  },
+  "birthday": "1985-05-09T00:46:53.771Z",
+  "ip": "193.197.93.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Hozap otviggir iz jusu lusavgu emgos umesu sos ohivittoz guw woos kopij deawafuc itze ege. Da tegti mucihnul tic wolapizuh si ektagle dacowod hadakda uvnerne hop wooni faz. Ege funo ne wifvisaj dodhovate bufte jasro repif lohtim meaconik ujami la ki delduupe purbec ur. Kubce ra susumo febidom pavji isopahad wi wupu fafav hijusa lecad wep tanotake usohcam ofupez kizjeho vot. Jusazep kum rithuput fiz rewup varu ejuajgad lozatok rosuc za cu pa jugasev taw kucmowa je adire.",
+    "bio": "Gumu petofe sen vezgabo tukdec mul karjusu foile bow daho kibif sig. Keppo hiacoc mil urvofwe tepkodi paniv mopra hutjumul butciw riorta zukse uhamug zicduw. Ebu isejapcek ze si ne ci uvogak da fik egojor eka epu vuwfamiw ohdu."
+  },
+  "apiKey": "7cc1a520c6811320e792704a4de43a1fe3a734eff99b42ff54eb640887513ec4",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
