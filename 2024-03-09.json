@@ -1,0 +1,26 @@
+{
+  "name": "Mary Bowman",
+  "age": 52,
+  "address": {
+    "street": "Abale Pass",
+    "city": "Kiworel",
+    "state": "LA",
+    "zip": "84020"
+  },
+  "contact": {
+    "phone": "(441) 792-9308",
+    "servicePhone": "800164995"
+  },
+  "birthday": "2003-06-10T14:43:28.751Z",
+  "ip": "215.51.71.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Geksesfo tow kaetegu segutji ebe zaze bupbewur jevputoz su viagoil opnefu muji ep. Ruwu laz iseneb go himvic em couriwe hehdetet uvun tovdog cavid bi vizojo nimeguw. Bazvovem vip jipebto finfuv risce avbuzbu tomoged rif hawji nesfi pemi tudje zoke ezbe nuhvob. Ovep neci gi tebbik bouzi vebe siziawa ponin jaficre woh jawgen gazgi letol azse rarog.",
+    "bio": "Wapuh pi badatuod wok de bur gofniwuh tak el vafijus bahdik gewpolve ocewa. Akosamde usoahmu obre or rijre igzu ezge ticetow netegcof lahabcow atvap hulimsu gu. Ziup ged jolisuf lenwa ha ow zi ecu gubiov sit guhfeet zovjecob cijelem."
+  },
+  "apiKey": "5285740f8b90fc1f194321f281e330161697a71397fafaa7869e12659194e2c9",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
